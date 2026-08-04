@@ -10,5 +10,4 @@
 - [Lichens ts-common](https://github.com/Lichens-Innovation/ts-common)
 - [Lichens racine-ts-sdk](https://github.com/Lichens-Innovation/lichens-racine-ts-sdk)
 - [Lichens racine-iot-protocol and SDK](https://github.com/Lichens-Innovation/lichens-racine-iot-protocol)
-
-
+- [Lichens PDF Generator](https://github.com/Lichens-Innovation/Lichens-PDF-Generator)
